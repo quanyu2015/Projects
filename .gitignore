@@ -1,0 +1,6 @@
+# excluded
+
+data/
+.ipynb_checkpoints/
+
+
