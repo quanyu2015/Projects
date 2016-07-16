@@ -1,6 +1,7 @@
 # untracked files
 
 data/*
+bak/*
 .ipynb_checkpoints/*
 .DS_Store
 05.bimbo.test.ipynb
