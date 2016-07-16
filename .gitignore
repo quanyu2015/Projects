@@ -1,6 +1,7 @@
-# excluded
+# untracked files
 
 data/*
 .ipynb_checkpoints/*
-
+.DS_Store
+05.bimbo.test.ipynb
 
