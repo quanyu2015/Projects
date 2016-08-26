@@ -1,6 +1,7 @@
 # untracked files
 
 data/*
+!data/others.png
 bak/*
 .ipynb_checkpoints/*
 .DS_Store

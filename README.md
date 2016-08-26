@@ -17,3 +17,14 @@ My prediction model was developed using MLlib on Spark.
 Extraction of article titles from Nature Journal website using BeautifulSoup.  
 [https://github.com/quanyu2015/Projects/blob/master/03.nature.ipynb](https://github.com/quanyu2015/Projects/blob/master/03.nature.ipynb)
 
+###5. Courses from COURSERA
+##### Courses with certificates or statement of accomplishment
+
+[Machine Learning](https://www.coursera.org/account/accomplishments/records/7G7FKX5VZTAW), Stanford University    
+[Machine Learning With Big Data (2015)](https://www.coursera.org/account/accomplishments/records/A6CPJEFVWBAD), University of California, San Diego   
+[Practical Machine Learning](https://www.coursera.org/account/accomplishments/records/cLCbN4a74LcbM2Sg), Johns Hopkins University   
+[Data Visualization](https://www.coursera.org/account/accomplishments/records/3Ps4LewAvNcwvfRG), University of Illinois at Urbana-Champaign    
+[Regression Models](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=973533), Johns Hopkins University   
+
+<img src="/data/others.png" width = "600">
+
