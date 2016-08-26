@@ -26,5 +26,5 @@ Extraction of article titles from Nature Journal website using BeautifulSoup.
 [Data Visualization](https://www.coursera.org/account/accomplishments/records/3Ps4LewAvNcwvfRG), University of Illinois at Urbana-Champaign    
 [Regression Models](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=973533), Johns Hopkins University   
 
-<img src="/data/others.png" width = "600">
+<img src="/data/others.png" width = "800">
 
