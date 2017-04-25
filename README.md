@@ -29,7 +29,7 @@ Extraction of article titles from Nature Journal website using BeautifulSoup.
 [Practical Machine Learning](https://www.coursera.org/account/accomplishments/records/cLCbN4a74LcbM2Sg), Johns Hopkins University   
 [Data Visualization](https://www.coursera.org/account/accomplishments/records/3Ps4LewAvNcwvfRG), University of Illinois at Urbana-Champaign    
 [Regression Models](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=973533), Johns Hopkins University   
-[The Complete SQL Bootcamp](https://www.udemy.com/certificate/UC-EJVK7I5Q/)
+[The Complete SQL Bootcamp](https://www.udemy.com/certificate/UC-EJVK7I5Q/), Udemy
 
-<img src="/data/others.png" width = "600">
+<img src="/data/others.png" width = "680">
 
